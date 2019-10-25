@@ -1,0 +1,4 @@
+# �� �몫�砥� ��ࠡ��� �訡��
+php_value auto_prepend_file none
+AddDefaultCharset windows-cp1251
+RewriteEngine Off
