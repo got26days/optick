@@ -9,7 +9,7 @@
       <div class="carousel-inner">
         @foreach($sliders as $key => $slider)
         <div class="carousel-item @if($key == 0) active @endif">
-          <img class="d-block w-100" src="{{ $slider['image'] }}" alt="First slide">
+          <img class="d-block w-100" src="/storage/{{ $slider['image'] }}" alt="First slide">
         </div>
         @endforeach
       </div>
