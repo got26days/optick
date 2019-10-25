@@ -45,6 +45,7 @@ const app = new Vue({
           option4: false,
           option5: false,
           option6: false,
+          option7: false,
           price: 'asc',
           sendbrand: 'Все',
           catalogs: {},

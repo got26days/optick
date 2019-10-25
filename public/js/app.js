@@ -25339,6 +25339,7 @@ var app = new __WEBPACK_IMPORTED_MODULE_3_vue___default.a({
       option4: false,
       option5: false,
       option6: false,
+      option7: false,
       price: 'asc',
       sendbrand: 'Все',
       catalogs: {},
