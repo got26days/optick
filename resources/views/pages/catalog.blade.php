@@ -16,7 +16,8 @@
                  <li><a href="#" class="small" data-value="option3" tabIndex="-1"><input type="checkbox" v-model="option3" @change="getCatalog()"/>&nbsp;АКСЕССУАРЫ</a></li>
                  <li><a href="#" class="small" data-value="option4" tabIndex="-1"><input type="checkbox" v-model="option4" @change="getCatalog()"/>&nbsp;ОПРАВЫ</a></li>
                  <li><a href="#" class="small" data-value="option5" tabIndex="-1"><input type="checkbox" v-model="option5" @change="getCatalog()"/>&nbsp;СРЕДСТВА ПО УХОДУ</a></li>
-                 <li><a href="#" class="small" data-value="option5" tabIndex="-1"><input type="checkbox" v-model="option6" @change="getCatalog()"/>&nbsp;ЛИНЗЫ ДЛЯ ОЧКОВ</a></li>
+                 <li><a href="#" class="small" data-value="option6" tabIndex="-1"><input type="checkbox" v-model="option6" @change="getCatalog()"/>&nbsp;ЛИНЗЫ ДЛЯ ОЧКОВ</a></li>
+                 <li><a href="#" class="small" data-value="option7" tabIndex="-1"><input type="checkbox" v-model="option7" @change="getCatalog()"/>&nbsp;ПОДАРОЧНЫЕ КАРТЫ</a></li>
                </ul>
             </div>
       </div>

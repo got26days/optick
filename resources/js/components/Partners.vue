@@ -72,6 +72,27 @@
                   </a>
                 </div>
               </slide>
+              <slide>
+                <div class="area-img">
+                  <a href="http://www.fhg.ru/" target="_blank">
+                    <img src="/imgs/part11.png" alt="part">
+                  </a>
+                </div>
+              </slide>
+              <slide>
+                <div class="area-img">
+                  <a href="https://www.newoptica.ru/" target="_blank">
+                    <img src="/imgs/part12.png" alt="part">
+                  </a>
+                </div>
+              </slide>
+              <slide>
+                <div class="area-img">
+                  <a href="https://www.mondottica.com" target="_blank">
+                    <img src="/imgs/part13.png" alt="part">
+                  </a>
+                </div>
+              </slide>
             </carousel>
         </div>
     </div>

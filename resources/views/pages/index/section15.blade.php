@@ -1,1 +1,1 @@
-<iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A327a645a4d93c440609b342d6e1147cc0f2b54dfd8cd34e61e4931f9dea3501d&amp;source=constructor" width="100%" height="450" frameborder="0"></iframe>
+<iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A327a645a4d93c440609b342d6e1147cc0f2b54dfd8cd34e61e4931f9dea3501d&amp;source=constructor" width="100%" height="520" frameborder="0"></iframe>

@@ -9,7 +9,7 @@
           <p>
             Очки на заказ 
           </p>
-          <h3>от 720 руб.</h3>
+          <h3>от 1280 руб.</h3>
         </div>
         <div class="area-tombs">
           <div class="tomb">

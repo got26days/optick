@@ -6,12 +6,15 @@ use Illuminate\Http\Request;
 use App\Catalog;
 use App\Stock;
 use App\Message;
+use App\Slider;
 
 class MainController extends Controller
 {
     public function index()
     {
-      return view('pages.index');
+      $sliders = Slider::get();
+
+      return view('pages.index', compact('sliders'));
     }
 
     public function contact()
@@ -59,6 +62,10 @@ class MainController extends Controller
         array_push($array, "state6");
       }
 
+      if($request->option7 == 'true') {
+        array_push($array, "state7");
+      }
+
       if($request->option0 == 'true'){
         array_push($array, "state1");
         array_push($array, "state2");
@@ -66,6 +73,7 @@ class MainController extends Controller
         array_push($array, "state4");
         array_push($array, "state5");
         array_push($array, "state6");
+        array_push($array, "state7");
       }
 
       if($request->brand == "Все") {

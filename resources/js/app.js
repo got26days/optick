@@ -66,6 +66,7 @@ const app = new Vue({
           option4: this.option4,
           option5: this.option5,
           option6: this.option6,
+          option7: this.option7,
           price: this.price,
           brand: this.sendbrand,
         } })

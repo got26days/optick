@@ -8,7 +8,7 @@
         <div class="img-circle">
           <img src="/imgs/family.png" alt="">
         </div>
-        <h1>43 000</h1>
+        <h1>50 841</h1>
         <h4>человек</h4>
         <h5>уже проверили зрение</h5>
       </div>
@@ -16,7 +16,7 @@
         <div class="img-circle">
           <img src="/imgs/glasscard.png" alt="">
         </div>
-        <h1>80 400</h1>
+        <h1>92 053</h1>
         <h4>очков</h4>
         <h5>изготовлено по рецептам</h5>
       </div>
